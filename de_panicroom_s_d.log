@@ -1,0 +1,236 @@
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading D:\Eigene Dateien\Eigener Desktop\de_panicroom_s_d.vmf
+Map revision 2
+Material not found!: CONCRETE/CONCRETEWALL041D
+Material not found!: CS_HAVANA/SDWLKA01
+Material not found!: CONCRETE/CONCRETEWALL008A
+Material not found!: WOOD/OFFDRA
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: CONCRETE/CONCRETEFLOOR014A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: TEST_SPEAKERS/MIWOODM
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE013O
+Material not found!: CARPET/OFFFLRB
+Material not found!: CONCRETE/CONCRETEWALL002A
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: PLASTER/PLASTERWALL035E
+Material not found!: CS_ITALY/CARPET-SN03
+Material not found!: DE_CHATEAU/WALL01B
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: METAL/METALPIPE009A
+Material not found!: DE_AZTEC/CSTRIKE_OE4VENT
+Material not found!: CS_ITALY/CEILING01
+"effects/stairsafrnt" - "materials/metal/stairsafrnt.vtf": cached version doesn't exist
+Material not found!: HALFLIFE/+0~FIFTIES_LGT2
+Material not found!: CS_HAVANA/MTLA
+Material not found!: CS_ITALY/WINWARE5
+Material not found!: DE_CHATEAU/BOOKSA
+Material not found!: WOOD/WOODDOOR003A
+Material not found!: CS_ITALY/CXBRICKJ
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: METAL/METALDOOR053A
+Material not found!: CS_HAVANA/{TENSION
+Material not found!: WOOD/WOODSHELF001A
+Material not found!: COMPOSITE/BUILDINGSET022B
+Material not found!: COMPOSITE/BUILDINGSET021B
+Material not found!: COMPOSITE/BUILDINGSET023A
+Material not found!: COMPOSITE/BUILDINGSET041A
+Material not found!: BUILDINGS/GEN18
+Material not found!: BUILDINGS/GEN19
+Material not found!: METAL/STAIRSATP
+Material not found!: METAL/DRTRIMA
+Material not found!: CS_HAVANA/FRIDGE
+Material not found!: DE_PIRANESI/PI_GRNMETAL
+Material not found!: GLASS/GLASSWINDOWBREAK070A
+Material not found!: DE_CBBLE/DOOR010
+Material not found!: METAL/INDUSTRIALBELLBOTTOMON02
+Material not found!: CS_ITALY/{RUSTYRUNGS
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: CS_ITALY/YELLOW
+Material not found!: CARPET/OFFFLRA
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 40 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Eigene Dateien\Eigener Desktop\de_panicroom_s_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (580237 bytes)
+Error loading studio model "models/props_pipes/PipeCluster08d_extender128.mdl"!
+Error loading studio model "models/props_c17/GasPipes001a.mdl"!
+Error loading studio model "models/props_vehicles/car004a.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_01a.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_02a.mdl"!
+Error loading studio model "models/props_debris/concrete_debris128Pile001a.mdl"!
+Error loading studio model "models/props_debris/concrete_debris256Barricade001a.mdl"!
+Error loading studio model "models/props_debris/concrete_debris256Pile001a.mdl"!
+Error loading studio model "models/props_foliage/ivy_01.mdl"!
+Error loading studio model "models/props/pi_fern.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_interiors/BathTub01a.mdl"!
+Error loading studio model "models/props_c17/FurnitureToilet001a.mdl"!
+Error loading studio model "models/props_wasteland/prison_sink001a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2174 texinfos to 1182
+Reduced 101 texdatas to 94 (2804 bytes to 2599)
+Writing D:\Eigene Dateien\Eigener Desktop\de_panicroom_s_d.bsp
+2 seconds elapsed
+
+
+
+8 threads
+reading d:\eigene dateien\eigener desktop\de_panicroom_s_d.bsp
+reading d:\eigene dateien\eigener desktop\de_panicroom_s_d.prt
+1492 portalclusters
+4494 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3150 visible clusters (0.00%)
+Total clusters visible: 417032
+Average clusters visible: 279
+Building PAS...
+Average clusters audible: 1089
+visdatasize:389092  compressed from 572928
+writing d:\eigene dateien\eigener desktop\de_panicroom_s_d.bsp
+25 minutes, 48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading d:\eigene dateien\eigener desktop\de_panicroom_s_d.bsp
+6783 faces
+310589 square feet [44724908.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6783 patches before subdivision
+22527 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3054832, max 955
+transfer lists:  23.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(13763, 11427, 8572)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1963, 1515, 1042)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(376, 277, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(82, 57, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(20, 13, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0039 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 142/1024         6816/49152    (13.9%) 
+brushes               1498/8192        17976/98304    (18.3%) 
+brushsides            9665/65536       77320/524288   (14.7%) 
+planes                3918/65536       78360/1310720  ( 6.0%) 
+vertexes             11103/65536      133236/786432   (16.9%) 
+nodes                 4005/65536      128160/2097152  ( 6.1%) 
+texinfos              1182/12288       85104/884736   ( 9.6%) 
+texdata                 94/2048         3008/65536    ( 4.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6783/65536      379848/3670016  (10.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4500/65536      252000/3670016  ( 6.9%) 
+facebrushes            821/0            1642/0        ( 0.0%) 
+facebrushlists        6783/0           27132/0        ( 0.0%) 
+leaves                4148/65536      132736/2097152  ( 6.3%) 
+leaffaces             8027/65536       16054/131072   (12.2%) 
+leafbrushes           2717/65536        5434/131072   ( 4.1%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            50723/512000     202892/2048000  ( 9.9%) 
+edges                29422/256000     117688/1024000  (11.5%) 
+LDR worldlights         44/8192         4400/819200   ( 0.5%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            585/32768        5850/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10287/65536       20574/131072   (15.7%) 
+cubemapsamples          32/1024          512/16384    ( 3.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      815823/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      389092/16777216 ( 2.3%) 
+entdata               [variable]      108274/393216   (27.5%) 
+LDR ambient table     4148/65536       16592/262144   ( 6.3%) 
+HDR ambient table     4148/65536       16592/262144   ( 6.3%) 
+LDR leaf ambient      8777/65536      245756/1835008  (13.4%) 
+HDR leaf ambient      4148/65536      116144/1835008  ( 6.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6682     ( 0.0%) 
+pakfile               [variable]     2463066/0        ( 0.0%) 
+physics               [variable]      580237/4194304  (13.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 19087
+Writing d:\eigene dateien\eigener desktop\de_panicroom_s_d.bsp
+18 seconds elapsed
