@@ -1,5 +1,9 @@
 #Original Panicroom files
 original_files
+*.bsp
+*.vmx # Hammer Editor backup file https://developer.valvesoftware.com/wiki/VMX
+*.log # log file
+*.prt # lof file for leaks https://developer.valvesoftware.com/wiki/PRT
 
 # Windows image file caches
 Thumbs.db
